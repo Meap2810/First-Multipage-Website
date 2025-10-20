@@ -4,7 +4,7 @@
 
 1. In the file named `index.html` change the `title` to be your first name's site
     ex: `Frank's Site`
-2. Create a heading 1 tag inside the `body` that says "My First Website"
+2. Create a heading 1 tag inside the `body` that says "My First Multi-Page Website"
 3. Then add a paragraph that has at least 4 sentences about something that you are interested in.
 4. Add two more sections each with its own `heading` and either a `paragraph` or a `list` (ordered or unordered your choice). You do not need to write your own content, just paste some [*lorem ipsum*](https://lipsum.com) instead. You should now have a total of 3 sections.
 5. Add 2 working anchor tags to your site. The hyperlinks can open in a new window using the attribute: `target="_blank"` or in the same window without that attribute. [Help with hyperlinks](https://www.youtube.com/watch?v=F0Wt5ECAyHM)
@@ -17,8 +17,8 @@
 1. Expand your site again to include 2 sub pages. A home page `index.html`, this page is already mostly done. The only thing that you need to add is 3 links (anchor tags), preferably near the top of the page.
 
 - One link to the home page `index.html`
-- One link to the second page `page2Name.html`
-- One link to the third page `page3Name.html`
+- One link to the second page `page2Name.html`. Favorite sport, team, book, movie or game.
+- One link to the third page `page3Name.html`. Favorite animal, pet or top 5-10 reasons you do not like pets/animals.
 
 The second and third pages should include:
 
