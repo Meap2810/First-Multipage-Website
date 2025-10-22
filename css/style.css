@@ -1,0 +1,28 @@
+img{
+    width: 500px;
+}
+body{
+    background-color: black;
+    color : white;
+}
+h1,h2,h3,h4,h5,h6{
+
+    color: white;
+}
+p,ul,li,table,th,td,tr{
+    color: white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: grey;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
